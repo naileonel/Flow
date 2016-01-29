@@ -1,32 +1,28 @@
 div{
 	height:200px;
 	width:200px;
+	position: static;
 }
 body{
 	margin:0px;
-	padding:0px;
 }
 .rojo{
 	 background-color:#ee3e64;
-	 position:absolute;
-	 left:20px;
-	 top:20px;
+	 position:relative;
+	 left: 50px;
 }
 .azul{
 	background-color:#44accf;
 	position:absolute;
-	right: 20px;
-	top:20px;
+	left:250px; 
 }
 .verde{
 	background-color:#b7d84b;
-	position:absolute;
-	left: 20px;
-	bottom: 20px;
+	position:relative;
+	left: 50px;
 }
 .amarillo{
 	background-color:#f7fe2e; 
 	position: absolute;
-	right: 20px;
-	bottom: 20px;
+	left: 50px;
 }
