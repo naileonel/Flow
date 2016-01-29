@@ -7,17 +7,17 @@ body{
 	padding: 0px;
 }
 .rojo{
- background-color:#ee3e64;
- position:static;
- left: 50px;
+	 background-color:#ee3e64;
+	 position:static;
+	 left: 50px;
 }
 .azul{
-background-color:#44accf;
-position:relative;
-left: 200px;
+	background-color:#44accf;
+	position:relative;
+	left: 200px;
 }
 .verde{
-background-color:#b7d84b;
-position:static;
-left: 50px;
+	background-color:#b7d84b;
+	position:static;
+	left: 50px;
 }
