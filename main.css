@@ -3,21 +3,30 @@ div{
 	width:200px;
 }
 body{
-	margin: 0px;
-	padding: 0px;
+	margin:0px;
+	padding:0px;
 }
 .rojo{
 	 background-color:#ee3e64;
-	 position:static;
-	 left: 50px;
+	 position:absolute;
+	 left:20px;
+	 top:20px;
 }
 .azul{
 	background-color:#44accf;
-	position:relative;
-	left: 200px;
+	position:absolute;
+	right: 20px;
+	top:20px;
 }
 .verde{
 	background-color:#b7d84b;
-	position:static;
-	left: 50px;
+	position:absolute;
+	left: 20px;
+	bottom: 20px;
+}
+.amarillo{
+	background-color:#f7fe2e; 
+	position: absolute;
+	right: 20px;
+	bottom: 20px;
 }
